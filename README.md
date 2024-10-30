@@ -10,7 +10,7 @@ You can read more about this problem [here](https://github.com/vercel/satori/iss
 
 ## What's this repo about?
 I tried to get a good looking RTL images from Satori with some Html, Css, Js tricks. and it actually works with some limitations.
-This here is a Nuxt app that uses Nuxt SEO which uses Satori to render the OG images. 
+This here is a Nuxt app that uses [NuxtSEO](https://nuxtseo.com/docs/og-image/getting-started/introduction) which uses Satori to render the OG images. 
 (The template is in components/OgImage/BlogPost.vue)
 
 ## What tricks did I apply?
